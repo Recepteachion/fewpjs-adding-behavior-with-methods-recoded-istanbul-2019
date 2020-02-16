@@ -34,3 +34,6 @@ class Bird {
   }
   
 }
+
+let cat = new Cat("she","female")
+cat.speak
