@@ -37,3 +37,7 @@ class Bird {
 
 let cat = new Cat("she","female")
 cat.speak
+let dog = new Dog("she","female")
+cat.speak
+let cat = new Cat("she","female")
+cat.speak
